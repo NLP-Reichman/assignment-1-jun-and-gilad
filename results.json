@@ -3,16 +3,16 @@
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 747,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8474,
+    "french_3_gram_length": 8506,
+    "spanish_3_gram_length": 8745
   },
   "test_eval": {
     "en_on_en": 31.62,
-    "en_on_fr": 70.32,
-    "en_on_tl": 92.96,
-    "en_on_nl": 80.06
+    "en_on_fr": 70.39,
+    "en_on_tl": 93.02,
+    "en_on_nl": 80.12
   },
   "test_match": "KeyError('source')",
   "test_generate": {
