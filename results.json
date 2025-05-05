@@ -14,7 +14,15 @@
     "en_on_tl": 54.98,
     "en_on_nl": 48.17
   },
-  "test_match": "KeyError('source')",
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 20.63914227910796,
+    "en_tl_3": 54.978254906359986,
+    "en_nl_3": 48.17443205514167
+  },
   "test_generate": {
     "english_2_gram": "I am",
     "english_3_gram": "I am",
