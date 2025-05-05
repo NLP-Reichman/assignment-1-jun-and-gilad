@@ -16,12 +16,12 @@
   },
   "test_match": "KeyError('source')",
   "test_generate": {
-    "english_2_gram": "startI amell1Gige omyo & he't",
-    "english_3_gram": "startstartI amebompirs ans appree ",
-    "english_4_gram": "startstartstartI Lover. Zo Are froming #M",
-    "spanish_2_gram": "startSoy ' Dusos qups  en ce",
-    "spanish_3_gram": "startstartSoy ensanta oto el 200 ",
-    "french_2_gram": "startJe suis jeitpu s a male s:/",
-    "french_3_gram": "startstartJe suistreil Her lon in vs "
+    "english_2_gram": "I am",
+    "english_3_gram": "I am",
+    "english_4_gram": "I Love",
+    "spanish_2_gram": "Soy",
+    "spanish_3_gram": "Soy",
+    "french_2_gram": "Je suis",
+    "french_3_gram": "Je suis"
   }
 }
